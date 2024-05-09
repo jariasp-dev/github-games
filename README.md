@@ -1,4 +1,4 @@
-## Welcome to GitHub Games - Juan Arias
+## Welcome to GitHub Games - Capacitacion
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
