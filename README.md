@@ -9,5 +9,5 @@ You can play the game at: https://githubschool.github.io/github-games/
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
 
 
-
-Cambio 004 dev
+Cambio 002 QA
+Cambio 004 QA   
